@@ -14,7 +14,7 @@ public class Ambitious_Kid {
         if (al.contains(0)) {
             System.out.println(0);
         } else if (al.size() == 1) {
-            System.out.println(Math.abs(al.get(0)));
+            System.out.println(Math.abs(al.get(0)));Bu
         } else {
             int num = Math.abs(al.get(0));
             for (int i = 1; i < n; i++) {
